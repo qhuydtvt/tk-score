@@ -4,3 +4,7 @@ flask-restful
 
 # Database
 mongoengine
+
+# For deployment
+gunicorn
+eventlet
