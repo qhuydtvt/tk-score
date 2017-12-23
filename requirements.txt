@@ -1,0 +1,6 @@
+# Server & APIs
+flask
+flask-restful
+
+# Database
+mongoengine
